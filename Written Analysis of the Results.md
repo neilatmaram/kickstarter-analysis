@@ -8,10 +8,10 @@ To show Louise how different campaigns fared in relation to their launch dates a
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-I created a pivot table and filtered the data based on months of launch dates and outcomes for theater campaigns and created a graph. ![Theater Outcomes vs Launch Month](https://github.com/neilatmaram/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png).
+I created a pivot table and filtered the data based on months of launch dates and outcomes for theater campaigns and created a graph. ![Theater Outcomes vs Launch Month](https://github.com/neilatmaram/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png).
 
 ### Analysis of Outcomes Based on Goals
-I filtered the data based on ranges for the goal amounts and outcomes for plays and created a graph graph. ![Outcomes vs Goals](https://github.com/neilatmaram/kickstarter-analysis/resources/Outcomes_vs_Goals.png).
+I filtered the data based on ranges for the goal amounts and outcomes for plays and created a graph graph. ![Outcomes vs Goals](https://github.com/neilatmaram/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png).
 
 ### Challenges and Difficulties Encountered
 A challenge for me was labeling the *x*-axis with the ranges of the goal amounts. I was able to do this by conducting a Google search.
